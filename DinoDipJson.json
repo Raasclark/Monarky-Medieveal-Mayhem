@@ -65,6 +65,18 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
 						"chancetodrop": 0.9
 					}
@@ -317,6 +329,18 @@
 						"chancetodrop": 0.5
 					},
 					{
+						"dino": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
+						"chancetodrop": 0.4
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
 						"chancetodrop": 0.4
 					}
@@ -375,6 +399,26 @@
 					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP.Deinosuchusasa_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA_C.Ceratosaurus_Character_BP_ASA_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
+						"chancetodrop": 0.4
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
 						"chancetodrop": 0.3
 					},
 					{
