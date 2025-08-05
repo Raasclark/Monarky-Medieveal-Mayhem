@@ -200,10 +200,6 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
 						"chancetodrop": 0.5
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
-						"chancetodrop": 0.9
 					}
 				],
 				"dipstogive": 5
@@ -281,6 +277,10 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+						"chancetodrop": 0.6
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
 						"chancetodrop": 0.6
 					},
 					{
@@ -430,4 +430,5 @@
 		]
 	}
 }
+
 
