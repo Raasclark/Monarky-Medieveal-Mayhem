@@ -133,10 +133,6 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
-						"chancetodrop": 0.95
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
 						"chancetodrop": 0.9
 					},
@@ -430,5 +426,6 @@
 		]
 	}
 }
+
 
 
