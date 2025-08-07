@@ -195,7 +195,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-						"chancetodrop": 0.5
+						"chancetodrop": 0.3
 					}
 				],
 				"dipstogive": 5
@@ -223,7 +223,7 @@
 						"chancetodrop": 0.8
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
@@ -256,7 +256,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
-						"chancetodrop": 0.8
+						"chancetodrop": 0.5
 					}
 				],
 				"dipstogive": 5
@@ -277,7 +277,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
-						"chancetodrop": 0.6
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
@@ -426,6 +426,7 @@
 		]
 	}
 }
+
 
 
 
