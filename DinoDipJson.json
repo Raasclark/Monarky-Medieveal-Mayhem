@@ -186,6 +186,14 @@
 						"chancetodrop": 0.7
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+						"chancetodrop": 0.8
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
+						"chancetodrop": 0.8
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
 						"chancetodrop": 0.5
 					}
@@ -203,10 +211,6 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
 						"chancetodrop": 0.7
 					},
@@ -216,10 +220,6 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
@@ -426,6 +426,7 @@
 		]
 	}
 }
+
 
 
 
