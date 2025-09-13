@@ -16,6 +16,7 @@
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
 			"/Game/PrimalEarth/Items/Raft/PrimalItemMotorboat_BP.PrimalItemMotorboat_BP_C",
+			"/DragonKingdom'/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
@@ -432,6 +433,7 @@
 		]
 	}
 }
+
 
 
 
